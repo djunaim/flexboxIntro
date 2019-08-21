@@ -11,3 +11,14 @@ nav {
 .linkContainer a {
     margin: 1em;
 }
+
+.puppyContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.puppyContainer img {
+    width: 500px;
+    margin: 1em;
+}
