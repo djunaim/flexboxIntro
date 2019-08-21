@@ -1,3 +1,13 @@
 body {
     background-color: goldenrod;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.linkContainer a {
+    margin: 1em;
+}
